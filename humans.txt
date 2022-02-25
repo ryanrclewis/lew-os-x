@@ -1,0 +1,14 @@
+/* TEAM */
+
+Designer: Ryan R. C. Lewis
+Twitter: @ryanrclewis
+Location: Michigan, United States of America
+
+/* SITE */
+
+Standards: HTML5, CSS3
+Components: jQuery
+Software: Atom, Gulp
+
+CRT Effect : https://github.com/hut8
+Template By : https://antoineguillou.fr/
